@@ -6,8 +6,8 @@ Beyond web development, I am a certified Data Analyst and run a technical YouTub
 
 ### 🚀 Featured Projects
 * **[PixelAI](https://github.com/BRSolanki/PixelAI):** A full-stack AI SaaS application integrating OpenAI and Stability AI models for dynamic content generation.
-* **[Bajaj ERP](link-to-your-repo):** A comprehensive showroom management system featuring real-time inventory tracking, sales registers, and dealer profile management.
-* **[EduTrack Pro](link-to-your-repo):** A role-based school management portal built with PHP/MySQL, featuring custom dashboards for admins, teachers, and students.
+* **[Bajaj ERP]():** A comprehensive showroom management system featuring real-time inventory tracking, sales registers, and dealer profile management.
+* **[EduTrack Pro]():** A role-based school management portal built with PHP/MySQL, featuring custom dashboards for admins, teachers, and students.
 
 ### 🎓 Education & Experience
 * **Bachelor of Computer Applications (BCA)** | *Graduated with 7.5+ CGPA*
