@@ -5,7 +5,7 @@ I'm a Full-Stack Developer and recent BCA graduate passionate about building end
 Beyond web development, I am a certified Data Analyst and run a technical YouTube channel focused on game engine optimization and shader modding.
 
 ### 🚀 Featured Projects
-* **[PixelAI](link-to-your-repo):** A full-stack AI SaaS application integrating OpenAI and Stability AI models for dynamic content generation.
+* **[PixelAI](https://github.com/BRSolanki/PixelAI):** A full-stack AI SaaS application integrating OpenAI and Stability AI models for dynamic content generation.
 * **[Bajaj ERP](link-to-your-repo):** A comprehensive showroom management system featuring real-time inventory tracking, sales registers, and dealer profile management.
 * **[EduTrack Pro](link-to-your-repo):** A role-based school management portal built with PHP/MySQL, featuring custom dashboards for admins, teachers, and students.
 
